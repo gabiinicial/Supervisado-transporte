@@ -1,0 +1,241 @@
+estacion,tipo_estacion,zona,franja,tipo_dia,lluvia,nivel_ocupacion
+Portal Norte,Portal,Periferia,Madrugada,Laboral,No,Bajo
+Portal Norte,Portal,Periferia,Madrugada,Laboral,No,Bajo
+Portal Norte,Portal,Periferia,Madrugada,Laboral,Si,Bajo
+Portal Norte,Portal,Periferia,Madrugada,Laboral,Si,Bajo
+Portal Norte,Portal,Periferia,Madrugada,Fin de semana,No,Bajo
+Portal Norte,Portal,Periferia,Madrugada,Fin de semana,No,Bajo
+Portal Norte,Portal,Periferia,Madrugada,Fin de semana,Si,Bajo
+Portal Norte,Portal,Periferia,Madrugada,Fin de semana,Si,Bajo
+Portal Norte,Portal,Periferia,Pico AM,Laboral,No,Critico
+Portal Norte,Portal,Periferia,Pico AM,Laboral,No,Medio
+Portal Norte,Portal,Periferia,Pico AM,Laboral,Si,Alto
+Portal Norte,Portal,Periferia,Pico AM,Laboral,Si,Alto
+Portal Norte,Portal,Periferia,Pico AM,Fin de semana,No,Medio
+Portal Norte,Portal,Periferia,Pico AM,Fin de semana,No,Medio
+Portal Norte,Portal,Periferia,Pico AM,Fin de semana,Si,Medio
+Portal Norte,Portal,Periferia,Pico AM,Fin de semana,Si,Medio
+Portal Norte,Portal,Periferia,Valle,Laboral,No,Medio
+Portal Norte,Portal,Periferia,Valle,Laboral,No,Medio
+Portal Norte,Portal,Periferia,Valle,Laboral,Si,Alto
+Portal Norte,Portal,Periferia,Valle,Laboral,Si,Medio
+Portal Norte,Portal,Periferia,Valle,Fin de semana,No,Bajo
+Portal Norte,Portal,Periferia,Valle,Fin de semana,No,Bajo
+Portal Norte,Portal,Periferia,Valle,Fin de semana,Si,Medio
+Portal Norte,Portal,Periferia,Valle,Fin de semana,Si,Bajo
+Portal Norte,Portal,Periferia,Pico PM,Laboral,No,Medio
+Portal Norte,Portal,Periferia,Pico PM,Laboral,No,Medio
+Portal Norte,Portal,Periferia,Pico PM,Laboral,Si,Alto
+Portal Norte,Portal,Periferia,Pico PM,Laboral,Si,Alto
+Portal Norte,Portal,Periferia,Pico PM,Fin de semana,No,Bajo
+Portal Norte,Portal,Periferia,Pico PM,Fin de semana,No,Bajo
+Portal Norte,Portal,Periferia,Pico PM,Fin de semana,Si,Medio
+Portal Norte,Portal,Periferia,Pico PM,Fin de semana,Si,Bajo
+Portal Norte,Portal,Periferia,Nocturna,Laboral,No,Bajo
+Portal Norte,Portal,Periferia,Nocturna,Laboral,No,Bajo
+Portal Norte,Portal,Periferia,Nocturna,Laboral,Si,Medio
+Portal Norte,Portal,Periferia,Nocturna,Laboral,Si,Bajo
+Portal Norte,Portal,Periferia,Nocturna,Fin de semana,No,Bajo
+Portal Norte,Portal,Periferia,Nocturna,Fin de semana,No,Bajo
+Portal Norte,Portal,Periferia,Nocturna,Fin de semana,Si,Bajo
+Portal Norte,Portal,Periferia,Nocturna,Fin de semana,Si,Bajo
+Calle 100,Intermedia,Centro,Madrugada,Laboral,No,Bajo
+Calle 100,Intermedia,Centro,Madrugada,Laboral,No,Bajo
+Calle 100,Intermedia,Centro,Madrugada,Laboral,Si,Bajo
+Calle 100,Intermedia,Centro,Madrugada,Laboral,Si,Bajo
+Calle 100,Intermedia,Centro,Madrugada,Fin de semana,No,Bajo
+Calle 100,Intermedia,Centro,Madrugada,Fin de semana,No,Bajo
+Calle 100,Intermedia,Centro,Madrugada,Fin de semana,Si,Bajo
+Calle 100,Intermedia,Centro,Madrugada,Fin de semana,Si,Bajo
+Calle 100,Intermedia,Centro,Pico AM,Laboral,No,Alto
+Calle 100,Intermedia,Centro,Pico AM,Laboral,No,Medio
+Calle 100,Intermedia,Centro,Pico AM,Laboral,Si,Critico
+Calle 100,Intermedia,Centro,Pico AM,Laboral,Si,Critico
+Calle 100,Intermedia,Centro,Pico AM,Fin de semana,No,Medio
+Calle 100,Intermedia,Centro,Pico AM,Fin de semana,No,Medio
+Calle 100,Intermedia,Centro,Pico AM,Fin de semana,Si,Medio
+Calle 100,Intermedia,Centro,Pico AM,Fin de semana,Si,Medio
+Calle 100,Intermedia,Centro,Valle,Laboral,No,Medio
+Calle 100,Intermedia,Centro,Valle,Laboral,No,Medio
+Calle 100,Intermedia,Centro,Valle,Laboral,Si,Medio
+Calle 100,Intermedia,Centro,Valle,Laboral,Si,Medio
+Calle 100,Intermedia,Centro,Valle,Fin de semana,No,Bajo
+Calle 100,Intermedia,Centro,Valle,Fin de semana,No,Bajo
+Calle 100,Intermedia,Centro,Valle,Fin de semana,Si,Bajo
+Calle 100,Intermedia,Centro,Valle,Fin de semana,Si,Medio
+Calle 100,Intermedia,Centro,Pico PM,Laboral,No,Alto
+Calle 100,Intermedia,Centro,Pico PM,Laboral,No,Medio
+Calle 100,Intermedia,Centro,Pico PM,Laboral,Si,Alto
+Calle 100,Intermedia,Centro,Pico PM,Laboral,Si,Alto
+Calle 100,Intermedia,Centro,Pico PM,Fin de semana,No,Bajo
+Calle 100,Intermedia,Centro,Pico PM,Fin de semana,No,Bajo
+Calle 100,Intermedia,Centro,Pico PM,Fin de semana,Si,Bajo
+Calle 100,Intermedia,Centro,Pico PM,Fin de semana,Si,Medio
+Calle 100,Intermedia,Centro,Nocturna,Laboral,No,Medio
+Calle 100,Intermedia,Centro,Nocturna,Laboral,No,Bajo
+Calle 100,Intermedia,Centro,Nocturna,Laboral,Si,Bajo
+Calle 100,Intermedia,Centro,Nocturna,Laboral,Si,Medio
+Calle 100,Intermedia,Centro,Nocturna,Fin de semana,No,Bajo
+Calle 100,Intermedia,Centro,Nocturna,Fin de semana,No,Bajo
+Calle 100,Intermedia,Centro,Nocturna,Fin de semana,Si,Bajo
+Calle 100,Intermedia,Centro,Nocturna,Fin de semana,Si,Bajo
+Av Jimenez,Intermedia,Centro,Madrugada,Laboral,No,Bajo
+Av Jimenez,Intermedia,Centro,Madrugada,Laboral,No,Bajo
+Av Jimenez,Intermedia,Centro,Madrugada,Laboral,Si,Bajo
+Av Jimenez,Intermedia,Centro,Madrugada,Laboral,Si,Bajo
+Av Jimenez,Intermedia,Centro,Madrugada,Fin de semana,No,Bajo
+Av Jimenez,Intermedia,Centro,Madrugada,Fin de semana,No,Bajo
+Av Jimenez,Intermedia,Centro,Madrugada,Fin de semana,Si,Bajo
+Av Jimenez,Intermedia,Centro,Madrugada,Fin de semana,Si,Bajo
+Av Jimenez,Intermedia,Centro,Pico AM,Laboral,No,Alto
+Av Jimenez,Intermedia,Centro,Pico AM,Laboral,No,Alto
+Av Jimenez,Intermedia,Centro,Pico AM,Laboral,Si,Critico
+Av Jimenez,Intermedia,Centro,Pico AM,Laboral,Si,Critico
+Av Jimenez,Intermedia,Centro,Pico AM,Fin de semana,No,Bajo
+Av Jimenez,Intermedia,Centro,Pico AM,Fin de semana,No,Bajo
+Av Jimenez,Intermedia,Centro,Pico AM,Fin de semana,Si,Medio
+Av Jimenez,Intermedia,Centro,Pico AM,Fin de semana,Si,Medio
+Av Jimenez,Intermedia,Centro,Valle,Laboral,No,Medio
+Av Jimenez,Intermedia,Centro,Valle,Laboral,No,Medio
+Av Jimenez,Intermedia,Centro,Valle,Laboral,Si,Medio
+Av Jimenez,Intermedia,Centro,Valle,Laboral,Si,Alto
+Av Jimenez,Intermedia,Centro,Valle,Fin de semana,No,Bajo
+Av Jimenez,Intermedia,Centro,Valle,Fin de semana,No,Bajo
+Av Jimenez,Intermedia,Centro,Valle,Fin de semana,Si,Bajo
+Av Jimenez,Intermedia,Centro,Valle,Fin de semana,Si,Bajo
+Av Jimenez,Intermedia,Centro,Pico PM,Laboral,No,Medio
+Av Jimenez,Intermedia,Centro,Pico PM,Laboral,No,Medio
+Av Jimenez,Intermedia,Centro,Pico PM,Laboral,Si,Alto
+Av Jimenez,Intermedia,Centro,Pico PM,Laboral,Si,Medio
+Av Jimenez,Intermedia,Centro,Pico PM,Fin de semana,No,Bajo
+Av Jimenez,Intermedia,Centro,Pico PM,Fin de semana,No,Medio
+Av Jimenez,Intermedia,Centro,Pico PM,Fin de semana,Si,Medio
+Av Jimenez,Intermedia,Centro,Pico PM,Fin de semana,Si,Medio
+Av Jimenez,Intermedia,Centro,Nocturna,Laboral,No,Bajo
+Av Jimenez,Intermedia,Centro,Nocturna,Laboral,No,Bajo
+Av Jimenez,Intermedia,Centro,Nocturna,Laboral,Si,Medio
+Av Jimenez,Intermedia,Centro,Nocturna,Laboral,Si,Bajo
+Av Jimenez,Intermedia,Centro,Nocturna,Fin de semana,No,Bajo
+Av Jimenez,Intermedia,Centro,Nocturna,Fin de semana,No,Bajo
+Av Jimenez,Intermedia,Centro,Nocturna,Fin de semana,Si,Bajo
+Av Jimenez,Intermedia,Centro,Nocturna,Fin de semana,Si,Bajo
+Portal Americas,Portal,Periferia,Madrugada,Laboral,No,Bajo
+Portal Americas,Portal,Periferia,Madrugada,Laboral,No,Bajo
+Portal Americas,Portal,Periferia,Madrugada,Laboral,Si,Bajo
+Portal Americas,Portal,Periferia,Madrugada,Laboral,Si,Medio
+Portal Americas,Portal,Periferia,Madrugada,Fin de semana,No,Bajo
+Portal Americas,Portal,Periferia,Madrugada,Fin de semana,No,Bajo
+Portal Americas,Portal,Periferia,Madrugada,Fin de semana,Si,Bajo
+Portal Americas,Portal,Periferia,Madrugada,Fin de semana,Si,Bajo
+Portal Americas,Portal,Periferia,Pico AM,Laboral,No,Alto
+Portal Americas,Portal,Periferia,Pico AM,Laboral,No,Medio
+Portal Americas,Portal,Periferia,Pico AM,Laboral,Si,Critico
+Portal Americas,Portal,Periferia,Pico AM,Laboral,Si,Alto
+Portal Americas,Portal,Periferia,Pico AM,Fin de semana,No,Bajo
+Portal Americas,Portal,Periferia,Pico AM,Fin de semana,No,Medio
+Portal Americas,Portal,Periferia,Pico AM,Fin de semana,Si,Medio
+Portal Americas,Portal,Periferia,Pico AM,Fin de semana,Si,Medio
+Portal Americas,Portal,Periferia,Valle,Laboral,No,Medio
+Portal Americas,Portal,Periferia,Valle,Laboral,No,Medio
+Portal Americas,Portal,Periferia,Valle,Laboral,Si,Medio
+Portal Americas,Portal,Periferia,Valle,Laboral,Si,Medio
+Portal Americas,Portal,Periferia,Valle,Fin de semana,No,Bajo
+Portal Americas,Portal,Periferia,Valle,Fin de semana,No,Bajo
+Portal Americas,Portal,Periferia,Valle,Fin de semana,Si,Bajo
+Portal Americas,Portal,Periferia,Valle,Fin de semana,Si,Bajo
+Portal Americas,Portal,Periferia,Pico PM,Laboral,No,Alto
+Portal Americas,Portal,Periferia,Pico PM,Laboral,No,Medio
+Portal Americas,Portal,Periferia,Pico PM,Laboral,Si,Critico
+Portal Americas,Portal,Periferia,Pico PM,Laboral,Si,Critico
+Portal Americas,Portal,Periferia,Pico PM,Fin de semana,No,Bajo
+Portal Americas,Portal,Periferia,Pico PM,Fin de semana,No,Bajo
+Portal Americas,Portal,Periferia,Pico PM,Fin de semana,Si,Medio
+Portal Americas,Portal,Periferia,Pico PM,Fin de semana,Si,Bajo
+Portal Americas,Portal,Periferia,Nocturna,Laboral,No,Bajo
+Portal Americas,Portal,Periferia,Nocturna,Laboral,No,Bajo
+Portal Americas,Portal,Periferia,Nocturna,Laboral,Si,Medio
+Portal Americas,Portal,Periferia,Nocturna,Laboral,Si,Medio
+Portal Americas,Portal,Periferia,Nocturna,Fin de semana,No,Bajo
+Portal Americas,Portal,Periferia,Nocturna,Fin de semana,No,Bajo
+Portal Americas,Portal,Periferia,Nocturna,Fin de semana,Si,Bajo
+Portal Americas,Portal,Periferia,Nocturna,Fin de semana,Si,Bajo
+Ricaurte,Intermedia,Corredor,Madrugada,Laboral,No,Bajo
+Ricaurte,Intermedia,Corredor,Madrugada,Laboral,No,Bajo
+Ricaurte,Intermedia,Corredor,Madrugada,Laboral,Si,Bajo
+Ricaurte,Intermedia,Corredor,Madrugada,Laboral,Si,Bajo
+Ricaurte,Intermedia,Corredor,Madrugada,Fin de semana,No,Bajo
+Ricaurte,Intermedia,Corredor,Madrugada,Fin de semana,No,Bajo
+Ricaurte,Intermedia,Corredor,Madrugada,Fin de semana,Si,Bajo
+Ricaurte,Intermedia,Corredor,Madrugada,Fin de semana,Si,Bajo
+Ricaurte,Intermedia,Corredor,Pico AM,Laboral,No,Medio
+Ricaurte,Intermedia,Corredor,Pico AM,Laboral,No,Alto
+Ricaurte,Intermedia,Corredor,Pico AM,Laboral,Si,Alto
+Ricaurte,Intermedia,Corredor,Pico AM,Laboral,Si,Critico
+Ricaurte,Intermedia,Corredor,Pico AM,Fin de semana,No,Medio
+Ricaurte,Intermedia,Corredor,Pico AM,Fin de semana,No,Bajo
+Ricaurte,Intermedia,Corredor,Pico AM,Fin de semana,Si,Bajo
+Ricaurte,Intermedia,Corredor,Pico AM,Fin de semana,Si,Bajo
+Ricaurte,Intermedia,Corredor,Valle,Laboral,No,Medio
+Ricaurte,Intermedia,Corredor,Valle,Laboral,No,Bajo
+Ricaurte,Intermedia,Corredor,Valle,Laboral,Si,Medio
+Ricaurte,Intermedia,Corredor,Valle,Laboral,Si,Medio
+Ricaurte,Intermedia,Corredor,Valle,Fin de semana,No,Bajo
+Ricaurte,Intermedia,Corredor,Valle,Fin de semana,No,Bajo
+Ricaurte,Intermedia,Corredor,Valle,Fin de semana,Si,Bajo
+Ricaurte,Intermedia,Corredor,Valle,Fin de semana,Si,Bajo
+Ricaurte,Intermedia,Corredor,Pico PM,Laboral,No,Medio
+Ricaurte,Intermedia,Corredor,Pico PM,Laboral,No,Medio
+Ricaurte,Intermedia,Corredor,Pico PM,Laboral,Si,Medio
+Ricaurte,Intermedia,Corredor,Pico PM,Laboral,Si,Medio
+Ricaurte,Intermedia,Corredor,Pico PM,Fin de semana,No,Bajo
+Ricaurte,Intermedia,Corredor,Pico PM,Fin de semana,No,Bajo
+Ricaurte,Intermedia,Corredor,Pico PM,Fin de semana,Si,Medio
+Ricaurte,Intermedia,Corredor,Pico PM,Fin de semana,Si,Bajo
+Ricaurte,Intermedia,Corredor,Nocturna,Laboral,No,Bajo
+Ricaurte,Intermedia,Corredor,Nocturna,Laboral,No,Bajo
+Ricaurte,Intermedia,Corredor,Nocturna,Laboral,Si,Bajo
+Ricaurte,Intermedia,Corredor,Nocturna,Laboral,Si,Medio
+Ricaurte,Intermedia,Corredor,Nocturna,Fin de semana,No,Bajo
+Ricaurte,Intermedia,Corredor,Nocturna,Fin de semana,No,Bajo
+Ricaurte,Intermedia,Corredor,Nocturna,Fin de semana,Si,Bajo
+Ricaurte,Intermedia,Corredor,Nocturna,Fin de semana,Si,Bajo
+Portal Suba,Portal,Periferia,Madrugada,Laboral,No,Bajo
+Portal Suba,Portal,Periferia,Madrugada,Laboral,No,Bajo
+Portal Suba,Portal,Periferia,Madrugada,Laboral,Si,Bajo
+Portal Suba,Portal,Periferia,Madrugada,Laboral,Si,Bajo
+Portal Suba,Portal,Periferia,Madrugada,Fin de semana,No,Bajo
+Portal Suba,Portal,Periferia,Madrugada,Fin de semana,No,Bajo
+Portal Suba,Portal,Periferia,Madrugada,Fin de semana,Si,Bajo
+Portal Suba,Portal,Periferia,Madrugada,Fin de semana,Si,Bajo
+Portal Suba,Portal,Periferia,Pico AM,Laboral,No,Alto
+Portal Suba,Portal,Periferia,Pico AM,Laboral,No,Critico
+Portal Suba,Portal,Periferia,Pico AM,Laboral,Si,Alto
+Portal Suba,Portal,Periferia,Pico AM,Laboral,Si,Critico
+Portal Suba,Portal,Periferia,Pico AM,Fin de semana,No,Medio
+Portal Suba,Portal,Periferia,Pico AM,Fin de semana,No,Bajo
+Portal Suba,Portal,Periferia,Pico AM,Fin de semana,Si,Alto
+Portal Suba,Portal,Periferia,Pico AM,Fin de semana,Si,Medio
+Portal Suba,Portal,Periferia,Valle,Laboral,No,Medio
+Portal Suba,Portal,Periferia,Valle,Laboral,No,Medio
+Portal Suba,Portal,Periferia,Valle,Laboral,Si,Alto
+Portal Suba,Portal,Periferia,Valle,Laboral,Si,Alto
+Portal Suba,Portal,Periferia,Valle,Fin de semana,No,Bajo
+Portal Suba,Portal,Periferia,Valle,Fin de semana,No,Bajo
+Portal Suba,Portal,Periferia,Valle,Fin de semana,Si,Bajo
+Portal Suba,Portal,Periferia,Valle,Fin de semana,Si,Bajo
+Portal Suba,Portal,Periferia,Pico PM,Laboral,No,Medio
+Portal Suba,Portal,Periferia,Pico PM,Laboral,No,Medio
+Portal Suba,Portal,Periferia,Pico PM,Laboral,Si,Alto
+Portal Suba,Portal,Periferia,Pico PM,Laboral,Si,Medio
+Portal Suba,Portal,Periferia,Pico PM,Fin de semana,No,Bajo
+Portal Suba,Portal,Periferia,Pico PM,Fin de semana,No,Medio
+Portal Suba,Portal,Periferia,Pico PM,Fin de semana,Si,Medio
+Portal Suba,Portal,Periferia,Pico PM,Fin de semana,Si,Bajo
+Portal Suba,Portal,Periferia,Nocturna,Laboral,No,Bajo
+Portal Suba,Portal,Periferia,Nocturna,Laboral,No,Bajo
+Portal Suba,Portal,Periferia,Nocturna,Laboral,Si,Bajo
+Portal Suba,Portal,Periferia,Nocturna,Laboral,Si,Bajo
+Portal Suba,Portal,Periferia,Nocturna,Fin de semana,No,Bajo
+Portal Suba,Portal,Periferia,Nocturna,Fin de semana,No,Bajo
+Portal Suba,Portal,Periferia,Nocturna,Fin de semana,Si,Bajo
+Portal Suba,Portal,Periferia,Nocturna,Fin de semana,Si,Bajo

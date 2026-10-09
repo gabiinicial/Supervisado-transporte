@@ -1,0 +1,31 @@
+id_estacion,estacion,troncal,tipo_estacion,zona,conexiones
+E01,Portal Norte,B - Autonorte,Portal,Periferia,2
+E02,Toberin,B - Autonorte,Intermedia,Corredor,1
+E03,Calle 100,B - Autonorte,Intermedia,Centro,1
+E04,Heroes,B - Autonorte,Intermedia,Corredor,2
+E05,Calle 76,A - Caracas,Sencilla,Centro,1
+E06,Calle 72,A - Caracas,Sencilla,Centro,1
+E07,Av Jimenez,A - Caracas,Intermedia,Centro,3
+E08,Tercer Milenio,A - Caracas,Sencilla,Centro,1
+E09,Portal Usme,H - Caracas Sur,Portal,Periferia,1
+E10,Portal Tunal,H - Caracas Sur,Portal,Periferia,1
+E11,Portal Suba,C - Suba,Portal,Periferia,1
+E12,Portal 80,D - Calle 80,Portal,Periferia,1
+E13,Ricaurte,E - NQS Central,Intermedia,Corredor,2
+E14,Portal Americas,F - Americas,Portal,Periferia,1
+E15,Banderas,F - Americas,Intermedia,Corredor,1
+E16,Portal Sur,G - NQS Sur,Portal,Periferia,1
+E17,Las Aguas,J - Eje Ambiental,Sencilla,Centro,1
+E18,Portal Eldorado,K - Calle 26,Portal,Periferia,1
+E19,Universidades,K - Calle 26,Sencilla,Centro,1
+E20,Centro Memoria,K - Calle 26,Intermedia,Centro,2
+E21,San Victorino,L - Carrera 10,Sencilla,Centro,1
+E22,Calle 26,A - Caracas,Sencilla,Centro,1
+E23,Marly,A - Caracas,Sencilla,Centro,1
+E24,Campin U Nacional,E - NQS Central,Sencilla,Corredor,1
+E25,Alcala,B - Autonorte,Sencilla,Corredor,1
+E26,Calle 45,A - Caracas,Sencilla,Centro,1
+E27,Av Boyaca,D - Calle 80,Sencilla,Corredor,1
+E28,Portal 20 Julio,L - Carrera 10,Portal,Periferia,1
+E29,Museo del Oro,J - Eje Ambiental,Sencilla,Centro,1
+E30,Suba Av Boyaca,C - Suba,Sencilla,Corredor,1
