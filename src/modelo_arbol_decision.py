@@ -42,18 +42,10 @@ SEMILLA  = 42
 
 # ===========================================================================
 # SECCIÓN 1 — IMPLEMENTACIÓN PROPIA DE ID3
-# (Capítulo 17, Palma Méndez, 2008)
 # ===========================================================================
 
 def entropia(etiquetas):
-    """
-    Entropía de Shannon del conjunto S:
-        H(S) = -Σ pᵢ · log₂(pᵢ)
-
-    Mide la impureza (incertidumbre) del conjunto.
-    H = 0  → conjunto puro (todas las muestras son de la misma clase)
-    H = 2  → máxima incertidumbre con 4 clases equiprobables
-    """
+    
     n = len(etiquetas)
     if n == 0:
         return 0.0
@@ -65,13 +57,7 @@ def entropia(etiquetas):
 
 
 def ganancia_informacion(filas, etiquetas, atributo):
-    """
-    Ganancia de información del atributo A sobre el conjunto S:
-        G(S, A) = H(S) - Σ_v  |S_v|/|S| · H(S_v)
-
-    Mide cuánta incertidumbre reduce dividir S según los valores de A.
-    ID3 elige en cada nodo el atributo con mayor G(S, A).
-    """
+   
     n = len(etiquetas)
     particiones = {}
     for fila, y in zip(filas, etiquetas):
